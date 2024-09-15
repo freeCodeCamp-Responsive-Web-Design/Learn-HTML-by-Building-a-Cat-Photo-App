@@ -1,5 +1,8 @@
 # Learn HTML by Building a Cat Photo App
 
+![image](https://github.com/user-attachments/assets/038317b4-c043-4629-8d38-c38fa5f63ac3)
+
+
 This project is part of the **FreeCodeCamp** curriculum, where you'll learn the basics of **HTML** by creating a simple and fun **Cat Photo App**.
 
 [Learn HTML by Building a Cat Photo App](https://freecodecamp-responsive-web-design.github.io/learn-html-by-building-a-cat-photo-app/)
